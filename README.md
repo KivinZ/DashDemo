@@ -8,9 +8,13 @@ if your requirement.txt does not run on aws, try delete all windows related py (
 
 ## install dash
 pip install dash
+
 pip install dash-renderer
+
 pip install dash-html-components
+
 pip install dash-core-components
+
 
 ## To create an docker environment
 https://www.phillipsj.net/posts/deploying-dash-to-elastic-beanstalk
