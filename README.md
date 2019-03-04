@@ -16,8 +16,13 @@ pip install dash-html-components
 pip install dash-core-components
 
 
-## To create an docker environment
+## To create an docker environment and deploy on AWS
 https://www.phillipsj.net/posts/deploying-dash-to-elastic-beanstalk
 
 ## Freeze your library
 pip freeze > requirements.txt
+**remove any library with 'win' in it!** if you are using windows
+
+## Upload to AWS Elastik Beanstalk
+Rename your python code to application.py
+zip with requirements.txt
