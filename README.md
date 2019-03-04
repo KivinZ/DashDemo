@@ -1,8 +1,8 @@
 # DashDemo
 LSTM Model Accuracy app: http://dashmoneyball.us-east-2.elasticbeanstalk.com/
 
-Static Dash Demo '''static-demo.py'''
-Year Slider demo '''callback.Demo.py'''
+Static Dash Demo ```static-demo.py```
+Year Slider demo ```callback.Demo.py```
 
 Callback Demo app http://callback.us-east-2.elasticbeanstalk.com/
 
